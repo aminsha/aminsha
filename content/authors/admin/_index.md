@@ -2,8 +2,8 @@
 title: Amin Shahraki
 role: Research Associate in Machine Learning for Networking
 avatar_filename: shahraki.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Data Science, Machine Learning and Cognitive
+  Network Management
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,6 +42,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Amin Shahraki** has received his Ph.D. from University of Oslo in 2020 in the field of Computer  science focusing on *Internet of Things (IoT)* and the use of *Data Science* in IoT network management
+**Amin Shahraki** has received his Ph.D. from University of Oslo in 2020 in the field of Computer  science focusing on *Internet of Things (IoT)* and the use of *Data Science* in IoT network management.
+
+He was a visiting fellow at [Clouds Lab](http://www.cloudbus.org/) at the Unviersity of Melbourne (Australia) from August 2019 to February 2020 under supervision of Distinguished Professor [Rajkumar Buyya](www.buyya.com)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
