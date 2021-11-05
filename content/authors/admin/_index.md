@@ -17,13 +17,14 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=9eAWLJUAAAAJ&hl=en
+    label: Google Scholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aminsha
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/amin-shahraki/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
