@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/amin-shahraki/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fraunhofer IIS
+    url: https://www.iis.fraunhofer.de/en.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
