@@ -6,12 +6,11 @@ bio: My research interests include Data Science, Machine Learning and Cognitive
   Network Management
 interests:
   - Machine Learning
-  - IoT
+  - Internet of Things
   - Cognitive Networking
-  - efsefs
-  - safsefs
-  - saesfdsf
-  - ""
+  - 5G and beyond
+  - Time Series Analysis
+  - Deep Reinforcement Learning
 social:
   - icon: envelope
     icon_pack: fas
