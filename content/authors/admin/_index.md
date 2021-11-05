@@ -39,7 +39,7 @@ education:
     - course: M.Sc. in Computer Networks
       institution: Islamic Azad University
       year: 2012
-email: ""
+email: am.shahraki@gmail.com
 superuser: true
 highlight_name: true
 ---
