@@ -1,6 +1,7 @@
 ---
 title: Amin Shahraki
-role: Professor of Artificial Intelligence
+role: Research Associate in Machine Learning for Networking
+avatar_filename: shahraki.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
