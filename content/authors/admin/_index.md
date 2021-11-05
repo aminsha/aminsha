@@ -1,7 +1,7 @@
 ---
 title: Amin Shahraki
 role: Research Associate in Machine Learning for Networking
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpeg
 bio: My research interests include Data Science, Machine Learning and Cognitive
   Network Management
 interests:
