@@ -30,15 +30,15 @@ organizations:
     url: https://www.iis.fraunhofer.de/en.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: University of Oslo
+      year: 2020
+    - course: Visiting Fellow
+      institution: University of Melbourne
+      year: 2017
+    - course: M.Sc. in Computer Networks
+      institution: Islamic Azad University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true
