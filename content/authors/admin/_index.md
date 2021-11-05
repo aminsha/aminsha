@@ -5,9 +5,9 @@ avatar_filename: avatar.jpeg
 bio: My research interests include Data Science, Machine Learning and Cognitive
   Network Management
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Internet of Things
+  - Cognitive
 social:
   - icon: envelope
     icon_pack: fas
