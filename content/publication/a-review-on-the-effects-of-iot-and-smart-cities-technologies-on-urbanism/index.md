@@ -2,6 +2,10 @@
 title: A review on the effects of IoT and smart cities technologies on urbanism
 publication_types:
   - "1"
+authors:
+  - Amin Shahraki
+  - Delaram Khojasteh Kaffash
+  - Øystein Haugen
 doi: ""
 publication: IEEE South-Eastern European Design Automation, Computer
   Engineering, Computer Networks and Society Media Conference
