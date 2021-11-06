@@ -32,9 +32,9 @@ image:
   focal_point: center
   preview_only: false
   filename: featured.jpeg
-date: 2013-07-01T00:00:00Z
+date: 2011-07-01T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2011-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
