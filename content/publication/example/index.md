@@ -29,7 +29,7 @@ tags: []
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: center
   preview_only: false
   filename: featured.jpeg
 date: 2013-07-01T00:00:00Z
