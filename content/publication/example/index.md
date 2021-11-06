@@ -22,7 +22,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Anewapproachforenergyanddelaytrade-offintra-clusteringroutinginWSNs
+title: A new approach for energy and delay trade-off intra-clustering routing in WSNs
 doi: https://doi.org/10.1016/j.camwa.2011.06.003
 featured: true
 tags: []
