@@ -7,7 +7,7 @@ authors:
   - Amin Shahraki
   - Hamed Tahezardeh
   - Øystein Haugen
-publication: International Symposium on Networks, Computers and Communications
+publication: IEEE International Symposium on Networks, Computers and Communications
 publication_short: ISNCC
 abstract: Trend change detection methods find trends in a dataset. Datasets
   based on Poisson distribution are important to analyze since they mimic many
