@@ -6,7 +6,7 @@ authors:
   - Amin Shahraki
   - Øystein Haugen
 publication: IEEE Industrial Cyber-Physical Systems
-publication_short: ICPS
+publication_short: IEEE ICPS
 abstract: Internet of Things(IoT) is still in infancy. There are concerns that
   IoT can jeopardize privacy as side-effects of providing the desired services.
   Social effects of IoT should be considered as an important part of IoT-human
