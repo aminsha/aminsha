@@ -1,6 +1,6 @@
 ---
-title: " Amin Shahraki Hierarchical Distributed Management Clustering Protocol
-  for Wireless Sensor Networks"
+title: Hierarchical Distributed Management Clustering Protocol for Wireless
+  Sensor Networks
 publication_types:
   - "0"
   - "2"
