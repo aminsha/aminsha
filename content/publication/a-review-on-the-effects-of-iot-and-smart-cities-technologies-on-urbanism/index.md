@@ -9,7 +9,7 @@ authors:
 doi: ""
 publication: IEEE South-Eastern European Design Automation, Computer
   Engineering, Computer Networks and Society Media Conference
-publication_short: SEEDA-CNECSM
+publication_short: IEEE SEEDA-CNECSM
 abstract: Internet of Things (IoT) as a new phenomenon is changing other
   fundamental definitions such as smart cities and urbanism. Based on IoT
   technology, new smart cities can have more opportunities to provide effective
