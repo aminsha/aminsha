@@ -3,6 +3,11 @@ title: "A Survey and Future Directions on Clustering: From WSNs to IoT and
   Modern Networking Paradigms"
 publication_types:
   - "2"
+authors:
+  - Amin Shahraki
+  - Amir Taherkordi
+  - Øystein Haugen
+  - Frank Eliassen
 publication: IEEE Transactions on Network and Service Management
 publication_short: IEEE TNSM
 abstract: Many Internet of Things (IoT) networks are created as an overlay over
