@@ -24,6 +24,14 @@ feature:
   icon: fab fa-git
   icon_pack: fab
   name: Git
+- description: 90%
+  name: Numpy
+- description: 60%
+  name: Tensorflow
+- description: 70%
+  name: Pytorch
+- description: 80%
+  name: Open AI gym  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
