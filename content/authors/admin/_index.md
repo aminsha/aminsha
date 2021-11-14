@@ -50,4 +50,4 @@ highlight_name: true
 
 He was a visiting fellow at [Clouds Lab](http://www.cloudbus.org/) at the Unviersity of Melbourne (Australia) from August 2019 to February 2020 under supervision of Distinguished Professor [Rajkumar Buyya](www.buyya.com)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/**CV updated Nov.pdf**" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Updated Nov.pdf" "newtab" >}}resumé{{< /staticref >}}.
