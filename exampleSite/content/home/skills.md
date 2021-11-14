@@ -20,10 +20,10 @@ feature:
   icon: fa-python
   icon_pack: fab
   name: Python
-- description: 100%
-  icon: chart-line
+- description: 90%
+  icon: fa-git
   icon_pack: fas
-  name: Statistics
+  name: Git
 - description: 10%
   icon: camera-retro
   icon_pack: fas
