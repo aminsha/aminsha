@@ -24,10 +24,6 @@ feature:
   icon: fa-git
   icon_pack: fas
   name: Git
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
