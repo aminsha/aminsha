@@ -31,7 +31,23 @@ feature:
 - description: 70%
   name: Pytorch
 - description: 80%
-  name: Open AI gym  
+  name: Open AI gym 
+- description: 90%
+  name: Latex
+- description: 100%
+  name: Riverbed Modeler
+- description: 40%
+  name: Omnet++
+- description: 90%
+  name: C++
+- description: 70%
+  name: Deep Learning
+- description: 80%
+  name: Deep Reinforcement Learning
+- description: 100%
+  name: IoT
+- description: 80%
+  name: SDN
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
