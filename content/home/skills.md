@@ -22,7 +22,7 @@ feature:
   name: Python
 - description: 90%
   icon: fab fa-git
-  icon_pack: fas
+  icon_pack: fab
   name: Git
 
 # Uncomment to use emoji icons.
