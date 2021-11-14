@@ -30,20 +30,20 @@ experience:
     date_start: '2020-11-30'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Researcher in the fields of:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Edge Computing
+        * Distributed Machine Learning
+        * Network Orchestration
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Visiting Fellow
+    company: University of Melbourne
+    company_url: 'www.unimelb.edu.au'
+    # company_logo: org-x
+    location: Melburne, Australia
+    date_start: '2019-08-01'
+    date_end: '2020-02-03'
+    description: Visiting fellow in the field of integration of Internet of Things and Cloud computing under supervision of Professor Rajkumar Buyya
 
 design:
   columns: '2'
