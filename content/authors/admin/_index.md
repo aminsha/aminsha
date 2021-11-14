@@ -34,15 +34,15 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: University of Oslo
+      institution: University of Oslo, Oslo, Norway
       year: 2020
     - course: Visiting Fellow
-      institution: University of Melbourne
+      institution: University of Melbourne, Melbourne, Australia
       year: 2019
     - course: M.Sc. in Computer Networks
-      institution: Islamic Azad University
+      institution: Islamic Azad University, Qazvin, Iran
       year: 2012
-email: am.shahraki@gmail.com
+email: am.shahraki@ieee.org
 superuser: true
 highlight_name: true
 ---
