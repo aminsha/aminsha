@@ -3,7 +3,7 @@ widget: about
 widget_id: add figure
 headless: true
 weight: 20
-title: Biography
+title: Biography (My website is still under construction)
 active: true
 author: admin
 design:
