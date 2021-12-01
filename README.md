@@ -2,7 +2,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> My name is Amin. I am a researcher in the field of Machine Learning for networking <a href="https://github.com/aminsha">@aminsha :octocat:</a>. I am working at Fraunhofer IIS, Germany :Germany:
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> My name is Amin. I am a researcher in the field of Machine Learning for networking <a href="https://github.com/aminsha">@aminsha :octocat:</a>. I am working at Fraunhofer IIS, Germany:
   </samp>
 </p>
 
@@ -12,7 +12,7 @@
 
 
 ## :pencil2: My Works: :trophy:       
-- [Letskhabar](https://letskhabar.com)
+- [Letskhabar](https://shahraan.me)
 - [Vimal](https://vimal.letskhabar.com)
 - [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
 - [Covid-19](https://covid-19.letskhabar.com/)
