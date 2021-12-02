@@ -2,9 +2,10 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> My name is Amin. I am a researcher in the field of Machine Learning for networking <a href="https://github.com/aminsha">@aminsha :octocat:</a>. I am working at Fraunhofer IIS, Germany:
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> My name is Amin. I am a researcher in the field of Machine Learning for networking. I am working at Fraunhofer IIS, Erlangen, Germany
   </samp>
 </p>
+<p align="center"> <b1> Here you can see some samples of my codes </b1> </p>
 
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
