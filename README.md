@@ -2,7 +2,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> My name is Amin. I am a researcher in the field of Machine Learning for networking. I am working at Fraunhofer IIS, Erlangen, Germany
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> My name is Amin. I am a researcher in the field of Machine Learning for networking. I am working at ABB Research Center, Mannheim, Germany
   </samp>
 </p>
 <p align="center"> <samp> <b1> Here you can see some samples of my codes </b1> </samp> </p>
